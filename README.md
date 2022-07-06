@@ -1,7 +1,13 @@
 # GuessTheCodeHack
-This script allows you to discover the language chosen in GuessThisCode
+This script allows you to discover the language chosen in GuessThisCode.
 
-I wrote it when i was 15 yr old.
+I looked at the source code of this website when I saw JavaScript was written clearly and it wasn't encrypted and so I created this script. 
+
+But it's only for fun,so please Mansoor Codes do not get mad if you read this repo 😢😢😢
+
+Follow [Mansoor Codes](https://www.youtube.com/channel/UCdtys5fMiaI_NJPeshNzxMQ) on YouTube 😜
+
+I wrote this script when I was 15 yr old.
 
 # Usage
 Navigate to [GuessThisCode](https://www.guessthiscode.com) / https://www.guessthiscode.com
