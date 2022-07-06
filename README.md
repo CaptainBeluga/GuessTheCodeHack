@@ -4,7 +4,7 @@ This script allows you to discover the language chosen in GuessThisCode
 I wrote it when i was 15 yr old.
 
 # Usage
-Navigate to https://www.guessthiscode.com
+Navigate to [StackOverFlow](http://stackoverflow.com){:target="_blank"}
 
     GUIDE:
     
