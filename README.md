@@ -1,7 +1,7 @@
 # GuessTheCodeHack
 This script allows you to discover the language chosen in GuessThisCode.
 
-I looked at the source code of this website when I saw JavaScript was written clearly and it wasn't encrypted and then I created this script. 
+I looked at the source code of this website when I saw JavaScript was written clearly and it wasn't encrypted and then I created this program. 
 
 But it's only for fun,so please Mansoor Codes do not get mad if you read this repo 😢😢😢
 
