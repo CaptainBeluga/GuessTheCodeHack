@@ -40,7 +40,7 @@ Navigate to [GuessThisCode](https://www.guessthiscode.com) / https://www.guessth
   
     [+] This function will add points to your score.
 
-    [+] It will open a prompt where you have to type the amount of points.
+    [+] It will open a prompt where you have to type the amount of points you want to add.
     
     Usage => addPoints()
     
