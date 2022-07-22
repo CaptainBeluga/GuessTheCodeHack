@@ -3,7 +3,7 @@ This script allows you to discover the language chosen in GuessThisCode.
 
 I looked at the source code of this website when I saw JavaScript was written clearly and it wasn't encrypted and then I created this program. 
 
-But it's only for fun,so please Mansoor Codes do not get mad if you read this repo 😢😢😢
+But it's only for fun,so please Mansoor Codes do not get mad if you read this repository 😢😢😢
 
 Follow [Mansoor Codes](https://www.youtube.com/channel/UCdtys5fMiaI_NJPeshNzxMQ) on YouTube 😜
 
@@ -28,9 +28,9 @@ Navigate to [GuessThisCode](https://www.guessthiscode.com) / https://www.guessth
 
    ONLY ONE FUNCTION:
 
-    [+] It returns the correct language but you need to select the button manually.
+    [+] It returns the correct language but you need to select the "NEXT BUTTON" manually.
     
-    Use => onlyOne()
+    Usage => onlyOne()
    
    
   -----------------------------------------------------------------
@@ -42,7 +42,7 @@ Navigate to [GuessThisCode](https://www.guessthiscode.com) / https://www.guessth
 
     [+] It will open a prompt where you have to type the amount of points.
     
-    Use => addPoints()
+    Usage => addPoints()
     
     
  -----------------------------------------------------------------
@@ -52,7 +52,7 @@ Navigate to [GuessThisCode](https://www.guessthiscode.com) / https://www.guessth
   
     [+] This function returns the correct language and it'll select the correct button automatically.
 
-    [+] To run this more time use the Python Script "automation.py".
+    [+] To run this more times use the Python Script "automation.py".
     
     [+] Install Python Dependencies => pip install pyinput
     
@@ -60,7 +60,7 @@ Navigate to [GuessThisCode](https://www.guessthiscode.com) / https://www.guessth
     
     [+] Come back to guessthiscode tab in the console and enjoy 😜
     
-    Use => guess()
+    Usage => guess()
    
    
    
